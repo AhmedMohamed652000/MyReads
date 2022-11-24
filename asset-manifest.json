@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Myreads/static/css/main.fe5fcdac.css",
+    "main.js": "/Myreads/static/js/main.7abe3cc8.js",
+    "index.html": "/Myreads/index.html",
+    "static/media/arrow-back.svg": "/Myreads/static/media/arrow-back.cd079cab42defead9875.svg",
+    "static/media/add.svg": "/Myreads/static/media/add.1b5d9b6afb5557f7992c.svg",
+    "static/media/arrow-drop-down.svg": "/Myreads/static/media/arrow-drop-down.4378492a3a09dbfc31ff.svg",
+    "main.fe5fcdac.css.map": "/Myreads/static/css/main.fe5fcdac.css.map",
+    "main.7abe3cc8.js.map": "/Myreads/static/js/main.7abe3cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5fcdac.css",
+    "static/js/main.7abe3cc8.js"
+  ]
+}
